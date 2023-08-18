@@ -33,6 +33,8 @@ make lint
 
 [![Node.js CI](https://github.com/nuuska-muikkunen/hexlet-ci-app/actions/workflows/ci-app-example.yml/badge.svg?event=push)](https://github.com/nuuska-muikkunen/hexlet-ci-app/actions/workflows/ci-app-example.yml)
 
+[![e2e-cache](https://github.com/actions/setup-node/actions/workflows/e2e-cache.yml/badge.svg?branch=main)](https://github.com/actions/setup-node/actions/workflows/e2e-cache.yml)
+
 This repository is created and maintained by the team and the community of Hexlet, an educational project. [Read more about Hexlet](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=hexlet-ci-app).
 
 See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
